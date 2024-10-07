@@ -7,6 +7,13 @@ Mint Classics Company, a retailer of classic model cars and other vehicles, is l
 To support a data-based business decision, they are looking for suggestions and recommendations for reorganizing or reducing inventory, while still maintaining timely service to their customers
 
 
+
+## Entity-Relationship Diagram
+
+![image](https://github.com/user-attachments/assets/d2129a69-832c-4d8f-8102-e4106ccc0e2a)
+
+
+
 ## 1. How many unique products are currently in the inventory?
 ```sql
 SELECT 
